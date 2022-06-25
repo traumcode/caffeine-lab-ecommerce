@@ -67,9 +67,7 @@ const HomePage = () =>{
                             <IconGift style={ { width: "60px" } }/>
                         </div>
                         <h4>Beneficii</h4>
-                        <p>Special offers for certain special occasions.Save on your order and get special gifts with them. We try to make each order special and unique with a added bonus of a gift in
-                            the form of a gift card or some chocolate. It is the small details such as these that add to the unique nature of these packages.
-                            Oferte speciale pentru ocazii speciale. Vrem ca fiecare comanda sa o facem speciala si unica asa ca am adaugat bonusuri in forma de ciocolata de fiecare data cand
+                        <p>Oferte speciale pentru ocazii speciale. Vrem ca fiecare comanda sa o facem speciala si unica asa ca am adaugat bonusuri in forma de ciocolata de fiecare data cand
                             impachetam o comanda.
                             Credem ca micile detalii conteaza foarte mult si adauga un detaliu simplu dar de neuitat
                         </p>
